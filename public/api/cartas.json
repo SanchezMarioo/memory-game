@@ -1,0 +1,88 @@
+{
+  "cards": [
+    {
+      "id": 1,
+      "imageFront": "https://imgur.com/VN6df4o.png",
+      "imageBack": "back.png",
+      "isFlipped": false,
+      "isMatched": false
+    },
+    {
+      "id": 2,
+      "imageFront": "https://i.imgur.com/gktbDGb.jpeg",
+      "imageBack": "back.png",
+      "isFlipped": false,
+      "isMatched": false
+    },
+    {
+      "id": 3,
+      "imageFront": "https://i.imgur.com/0liEa8F.jpeg",
+      "imageBack": "back.png",
+      "isFlipped": false,
+      "isMatched": false
+    },
+    {
+      "id": 4,
+      "imageFront": "https://i.imgur.com/HOjIuKA.jpeg",
+      "imageBack": "back.png",
+      "isFlipped": false,
+      "isMatched": false
+    },
+    {
+      "id": 5,
+      "imageFront": "https://i.imgur.com/kKSB3U3.jpeg",
+      "imageBack": "back.png",
+      "isFlipped": false,
+      "isMatched": false
+    },
+    {
+      "id": 6,
+      "imageFront": "https://i.imgur.com/4mI8dBA.jpeg",
+      "imageBack": "back.png",
+      "isFlipped": false,
+      "isMatched": false
+    },
+    {
+      "id": 7,
+      "imageFront": "https://i.imgur.com/lHHHiNh.jpeg",
+      "imageBack": "back.png",
+      "isFlipped": false,
+      "isMatched": false
+    },
+  {
+    "id": 8,
+    "imageFront": "https://i.imgur.com/Yd3LVZI.jpeg",
+    "imageBack": "back.png",
+    "isFlipped": false,
+    "isMatched": false
+  },
+  {
+    "id": 9,
+    "imageFront": "https://i.imgur.com/EXJDRhw.jpeg",
+    "imageBack": "back.png",
+    "isFlipped": false,
+    "isMatched": false
+  },
+  {
+    "id": 10,
+    "imageFront": "https://i.imgur.com/ZycId9a.jpeg",
+    "imageBack": "back.png",
+    "isFlipped": false,
+    "isMatched": false
+  },
+  {
+    "id": 11,
+    "imageFront": "https://i.imgur.com/8drBAVu.jpeg",
+    "imageBack": "back.png",
+    "isFlipped": false,
+    "isMatched": false
+  },
+  {
+    "id": 12,
+    "imageFront": "https://i.imgur.com/t7oaYHl.jpeg",
+    "imageBack": "back.png",
+    "isFlipped": false,
+    "isMatched": false
+  }
+  ]
+}
